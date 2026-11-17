@@ -1,0 +1,6 @@
+{
+    "fma": {"measured_gflops": 7.401, "operational_intensity": 1.25},
+    "dot": {"measured_gflops": 2.396, "operational_intensity": 0.25},
+    "poly": {"measured_gflops": 8.028, "operational_intensity": 2.5},
+    "triad": {"measured_gflops": 1.095, "operational_intensity": 0.125}
+}
